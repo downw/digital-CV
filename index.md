@@ -1,9 +1,9 @@
 ##Linjiang Guo
-Graduate student (reading)
+_Graduate student (reading)_ <br>
 [Email](mailto:scpaulguo@163.com) / [Blogs](https://blog.csdn.net/weixin_43718786?spm=1011.2124.3001.5343) / [GitHub](https://github.com/downw) 
 
 
-### Linjiang Guo
+## 👩🏼‍💻 Technical Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
