@@ -32,11 +32,11 @@ Major in information management and information system
 
 ## Natural Language Processing
 
-1. Sentiment Analysis
+**Sentiment Analysis**
 
    I have a good command of various mathematical algorithms for sentiment analysis(text classification). I have used Python to implement traditional dictionary-based sentiment analysis. I have also used *PyTorch* to do some deep learning sentiment analysis. For example, reproducing text-CNN and Bert models in the sentiment analysis task. My new paper using the deep sentiment analysis model and empirical experiment is under peer review.
 
-2. Automatic Summarization
+**Automatic Summarization**
 
    I am familiar with two kinds of automatic summarization techniques, namely, extraction summarization and generation summarization. The relevant project shows [here](https://github.com/downw/summrization).
 
