@@ -5,7 +5,7 @@ _Master degree candidate (reading)_ <br>
 
 
 # 👩🏼‍💻 Education Experience                                                                                                                                                       
-***\*Master degree candidate\****   *_(Sep 2020 - June 2023)_* <br>(expected)
+***\*Master degree candidate\****   *_(Sep 2020 - June 2023(expected))_* <br>
 
 Chinese Academy of Sciences
 
