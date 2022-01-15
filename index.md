@@ -11,7 +11,7 @@ Chinese Academy of Sciences
 
 Major in management science and engineering
 
-\- Participated in the National Natural Science Foundation of China, including no. 71904106, 
+\- Participated in projects of the National Natural Science Foundation of China, such as no.72074205 (Research on the "time, degree and efficiency" of Internet governance from the perspective of big data, support:480,000 RMB)
 
 \- Some projects such as pubic opinion detection and think tank research.
 
@@ -21,8 +21,7 @@ Major in information management and information system
 
 \- I learned some useful math and coding skills. Such as python and C#
 
-\- Participated in the National Natural Science Foundation of China no.71572097
-
+\- Participated in projects of the Natural Science Foundation of China, including no.71572097 (Research on dynamic matching between open innovation platform model and organizational characteristics: From the perspective of adaptive structural Theory, support:460,000 RMB), no.71904106 (Research on causal path and asymmetric relationship of public opinion and link sharing, support:195,000 RMB)
 
 
 
