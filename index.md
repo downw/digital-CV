@@ -58,9 +58,9 @@ This is one of my current research directions for my degree, and I am currently 
 
 # 👩🏼‍💻 Selected Honors And Awards
 
-- 2016-2019, Scholarship every year, Shandong University
-
+- 2016-2017, Shandong University Scholarship (The top 15%)
+- 2017-2018, Shandong University Scholarship (The top 5%)
+- 2018-2019, Shandong University Scholarship (The top 10%)
 - 2020, Outstanding Undergraduate Thesis Award, Shandong University
-
 - 2021, First prize of annual student Academic paper(The first), Institutes of Science and Development(CAS)
 
