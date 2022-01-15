@@ -5,7 +5,7 @@ _Master degree candidate (reading)_ <br>
 
 
 # 👩🏼‍💻 Education Experience                                                                                                                                                       
-***\*Master degree candidate\****   *_(Sep 2020 - Present)_* <br>
+***\*Master degree candidate\****   *_(Sep 2020 - June 2023)_* <br>(expected)
 
 Chinese Academy of Sciences
 
@@ -26,7 +26,25 @@ Major in information management and information system
 
 
 
-# 👩🏼‍💻 Technical Experience   
+
+# 👩🏼‍💻 Publications
+
+- Modeling and Simulating Online Panic in an Epidemic Complexity System: An Agent-Based Approach(SCI, the first author)
+- Study on the Meta analysis of the Relationship Between Enterprise Absorption Capacity and Innovation Performance(CSSCI, the third author)
+- A novel multi-task based deep model for sentiment analysis and its application in the post-pandemic era(in peer review)
+
+# 👩🏼‍💻 Fellowships And Awards
+
+- 2016-2017, Shandong University Scholarship (The top 15%)
+- 2017-2018, Shandong University Scholarship (The top 5%)
+- 2018-2019, Shandong University Scholarship (The top 10%)
+- 2020, Outstanding Undergraduate Thesis Award, Shandong University
+- 2021, First prize of annual student Academic paper(The first), Institutes of Science and Development(CAS)
+
+
+# 👩🏼‍💻 Skills And Interests
+## Software & Tools
+  R, python, pytorch, C#, LATEX, Netlogo
 
 ## Natural Language Processing
 
@@ -50,17 +68,4 @@ I have written some examples of how to use R for panel data regression. These bl
 
 This is one of my current research directions for my degree, and I am currently studying it. I am interested in super networks (also calls network of networks, multi-layers networks).
 
-# 👩🏼‍💻 Publications
-
-- Modeling and Simulating Online Panic in an Epidemic Complexity System: An Agent-Based Approach(SCI, the first author)
-- Study on the Meta analysis of the Relationship Between Enterprise Absorption Capacity and Innovation Performance(CSSCI, the third author)
-- A novel multi-task based deep model for sentiment analysis and its application in the post-pandemic era(in peer review)
-
-# 👩🏼‍💻 Selected Honors And Awards
-
-- 2016-2017, Shandong University Scholarship (The top 15%)
-- 2017-2018, Shandong University Scholarship (The top 5%)
-- 2018-2019, Shandong University Scholarship (The top 10%)
-- 2020, Outstanding Undergraduate Thesis Award, Shandong University
-- 2021, First prize of annual student Academic paper(The first), Institutes of Science and Development(CAS)
 
