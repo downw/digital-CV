@@ -31,7 +31,7 @@ Major in information management and information system
 
 - Modeling and Simulating Online Panic in an Epidemic Complexity System: An Agent-Based Approach(SCI, the first author)
 - Study on the Meta analysis of the Relationship Between Enterprise Absorption Capacity and Innovation Performance(CSSCI, the third author)
-- A novel multi-task based deep model for sentiment analysis and its application in the post-pandemic era(in peer review)
+- A novel multi-task based deep model for sentiment analysis and its application in the post-pandemic era(SCI, the first author, under review)
 
 # 👩🏼‍💻 Fellowships And Awards
 
