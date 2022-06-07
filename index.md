@@ -1,11 +1,11 @@
 # Linjiang Guo
 
-_Master degree candidate (reading)_ <br>
-[Email](mailto:scpaulguo@163.com) / [Blogs](https://blog.csdn.net/weixin_43718786?spm=1011.2124.3001.5343) / [GitHub](https://github.com/downw) /[ORCID](https://orcid.org/my-orcid?orcid=0000-0002-1571-356X)
+_Master's student (reading)_ <br>
+[Email](mailto:guolinjiang20@mails.ucas.edu.cn) / [Blogs](https://blog.csdn.net/weixin_43718786?spm=1011.2124.3001.5343) / [GitHub](https://github.com/downw) /[ORCID](https://orcid.org/my-orcid?orcid=0000-0002-1571-356X)
 
 
 # 👩🏼‍💻 Education Experience                                                                                                                                                       
-***\*Master degree candidate\****   *_(Sep 2020 - June 2023(expected))_* <br>
+***\*Master degree \****   *_(Sep 2020 - June 2023(expected))_* <br>
 
 Chinese Academy of Sciences
 
@@ -44,17 +44,17 @@ Major in information management and information system
 
 # 👩🏼‍💻 Skills And Interests
 ## Software & Tools
-  R, python, pytorch, C#, LATEX, Netlogo
+  R, python, pytorch, C#, LATEX, Netlogo, GIT, SQL
 
 ## Natural Language Processing
 
 **Sentiment Analysis**
 
-   I have a good command of various mathematical algorithms for sentiment analysis(text classification). I have used Python to implement traditional dictionary-based sentiment analysis. I have also used *PyTorch* to do some deep learning sentiment analysis. For example, reproducing text-CNN and Bert models in the sentiment analysis task. My new paper using the deep sentiment analysis model and empirical experiment is under peer review.
+   I have a good knowledge of various mathematical algorithms for sentiment analysis(text classification)， such as Naive Bayes, CNN, LSTM, and BERT. I have also used *PyTorch* to implement and fine-tune some deep learning sentiment analyses. My latest paper using the deep sentiment analysis model and empirical experiment is under peer review.
 
 **Automatic Summarization**
 
-   I am familiar with two kinds of automatic summarization techniques, namely, extraction summarization and generation summarization. The relevant project shows [here](https://github.com/downw/summrization).
+   I am familiar with two kinds of automatic summarization techniques, namely, extraction summarization and generation summarization. I fine-tune a Chinese summarization model(\href{https://github.com/downw/summrization}{BART}) based on GBT-3 shows\href{https://arxiv.org/abs/1910.13461}{here}
 
 ## Agent Based Modelling
 
@@ -62,10 +62,10 @@ In my opinion, agent-based modelling is a good tool to simulate complex social a
 
 ## Econometric Analysis
 
-I have written some examples of how to use R for panel data regression. These blogs are mainly based on the *PLM* package for R. These examples include model testing and interpretation of regression results. Blogs are [here](https://blog.csdn.net/weixin_43718786/category_10538680.html?spm=1001.2014.3001.5482) (in Chinese).
+I have written some examples of how to use R for panel data regression. These blogs are mainly based on the *PLM* package for R. These examples include model testing and interpretation of regression results(such as fixed effect, random effect). Blogs are [here](https://blog.csdn.net/weixin_43718786/category_10538680.html?spm=1001.2014.3001.5482) (in Chinese).
 
 ## Complex Network
 
-This is one of my current research directions for my degree, and I am currently studying it. I am interested in super networks (also calls network of networks, multi-layers networks).
+It is one of my current research directions for my degree, and I am currently studying it. I am interested in modeling based on super networks (also called network of networks, multi-layers networks).
 
 
